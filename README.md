@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-I'm an M.A. candidate in Accounting & Corporate Finance at the University of St.Gallen (HSG). I'm interested in the intersection of finance, data, and technology — and use GitHub to build, document, and iterate on Python-based projects and AI-assisted workflows.
+I hold a B.A. in Business and Economics with a major in Banking & Finance from the University of Zurich (UZH) and am currently pursuing an M.A. in Accounting & Corporate Finance at the University of St.Gallen (HSG). I'm interested in the intersection of finance, data, and technology — and use GitHub to build, document, and iterate on Python-based projects and AI-assisted workflows.
 
 ## What I'm working on
 
@@ -29,7 +29,8 @@ Explore the [project overview](Projects/README.md).
 
 ## Background
 
-- 🎓 M.A. Candidate in Accounting & Corporate Finance — University of St.Gallen
+- 🎓 M.A. Candidate in Accounting & Corporate Finance — University of St.Gallen (HSG)
+- 🎓 B.A. in Business and Economics, major in Banking & Finance — University of Zurich (UZH)
 - 📍 Zurich, Switzerland
 
 ## Get in touch
