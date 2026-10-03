@@ -9,6 +9,12 @@ I'm a Master's student in Banking & Finance at the University of Zurich (UZH), c
 - using GitHub to document, version, and improve projects in a structured way
 - developing cleaner research and project systems
 
+## Projects
+
+Explore the [project overview](Projects/README.md).
+
+- **[MSCI World Factor Strategy](Projects/Finance/MSCI%20World%20Factor%20Strategy/README.md)** — Investment backtesting and fund economics. In development.
+
 ## Areas I'm interested in
 
 - banking & finance
