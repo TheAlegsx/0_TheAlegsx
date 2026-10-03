@@ -17,11 +17,11 @@ Explore the [project overview](Projects/README.md).
 
 ## Areas I'm interested in
 
-- banking & finance
-- quantitative research & backtesting
-- financial modeling & valuation
-- workflows, architectures and project systems
-- audit & regulatory frameworks
+- portfolio construction & asset allocation
+- investment analysis & company valuation
+- quantitative investment research & backtesting
+- Python-based financial modeling & portfolio analytics
+- AI-assisted research workflows & multi-agent systems
 
 ## Tools I'm using
 
