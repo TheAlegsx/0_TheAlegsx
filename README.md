@@ -28,4 +28,4 @@ I'm a Master's student in Banking & Finance at the University of Zurich (UZH), c
 
 ## Get in touch
 
-- 💼 [LinkedIn](www.linkedin.com/in/alex-weber-ch)
+- 💼 [LinkedIn](https://www.linkedin.com/in/alex-weber-ch/)
