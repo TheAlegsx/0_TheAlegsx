@@ -23,11 +23,9 @@ I'm a Master's student in Banking & Finance at the University of Zurich (UZH), c
 
 ## Background
 
-- 🎓 MA Banking & Finance and Quantitative Finance — University of Zurich
-- 🏦 Auditor (Pension Funds & Corporates) — KPMG Switzerland
-- 📜 Licensed Auditor (RAB), Switzerland
+- 🎓 M.A. Candidate in Accounting & Corporate Finance — University of St.Gallen
 - 📍 Zurich, Switzerland
 
 ## Get in touch
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/alex-weber-98390b12a)
+- 💼 [LinkedIn](www.linkedin.com/in/alex-weber-ch)
