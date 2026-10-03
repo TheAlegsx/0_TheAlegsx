@@ -1,6 +1,6 @@
 # Hi, I'm Alex 👋
 
-I'm a Master's student in Banking & Finance at the University of Zurich (UZH), currently working as an Auditor at KPMG Switzerland. I'm interested in the intersection of finance, data, and technology — and use GitHub to build, document, and iterate on Python-based projects and AI-assisted workflows.
+I'm an M.A. candidate in Accounting & Corporate Finance at the University of St.Gallen (HSG). I'm interested in the intersection of finance, data, and technology — and use GitHub to build, document, and iterate on Python-based projects and AI-assisted workflows.
 
 ## What I'm working on
 
