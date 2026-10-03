@@ -11,9 +11,9 @@ I hold a B.A. in Business and Economics with a major in Banking & Finance from t
 
 ## Projects
 
-Explore the [project overview](Projects/README.md).
+Explore my [Projects collection](https://github.com/TheAlegsx/Projects).
 
-- **[MSCI World Factor Strategy](Projects/Finance/MSCI%20World%20Factor%20Strategy/README.md)** — Investment backtesting and fund economics. In development.
+- **[MSCI World Factor Strategy](https://github.com/TheAlegsx/Projects/tree/main/Finance/MSCI%20World%20Factor%20Strategy)** — Investment backtesting and fund economics. In development.
 
 ## Areas I'm interested in
 
